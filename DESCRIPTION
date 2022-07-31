@@ -1,11 +1,12 @@
 Package: upgoR
-Title: What the Package Does (One Line, Title Case)
+Title: Comparing Your Text Against Common Words
 Version: 0.0.0.9000
 Authors@R: 
     person("Lee", "Durbin", , "l.d.durbin@gmail.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: This package helps you to craft clear, simple text but comparing 
+    your existing text against a list of the most commonly-used words in the 
+    English language.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
