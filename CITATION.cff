@@ -1,0 +1,57 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.2.2
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "upgoR" in publications use:'
+type: software
+license: MIT
+title: 'upgoR: Comparing Your Text Against Common Words'
+version: 0.0.0.9000
+abstract: This package helps you to craft clear, simple text but comparing your existing
+  text against a list of the most commonly-used words in the English language.
+authors:
+- family-names: Durbin
+  given-names: Lee
+  email: l.d.durbin@gmail.com
+preferred-citation:
+  type: manual
+  title: 'upgoR: Comparing Your Text Against Common Words'
+  authors:
+  - family-names: Durbin
+    given-names: Lee
+    email: l.d.durbin@gmail.com
+  version: 0.0.0.9000
+  abstract: This package helps you to craft clear, simple text but comparing your
+    existing text against a list of the most commonly-used words in the English language.
+  contact:
+  - family-names: Durbin
+    given-names: Lee
+    email: l.d.durbin@gmail.com
+  license: MIT
+  year: '2022'
+contact:
+- family-names: Durbin
+  given-names: Lee
+  email: l.d.durbin@gmail.com
+references:
+- type: software
+  title: dplyr
+  abstract: 'dplyr: A Grammar of Data Manipulation'
+  notes: Imports
+  authors:
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@rstudio.com
+    orcid: https://orcid.org/0000-0003-4757-117X
+  - family-names: François
+    given-names: Romain
+    orcid: https://orcid.org/0000-0002-2444-4226
+  - family-names: Henry
+    given-names: Lionel
+  - family-names: Müller
+    given-names: Kirill
+    orcid: https://orcid.org/0000-0002-1416-3412
+  year: '2022'
+  url: https://CRAN.R-project.org/package=dplyr
