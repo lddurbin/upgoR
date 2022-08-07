@@ -3,7 +3,6 @@
 #' @param file A single .txt file
 #'
 #' @return A character vector
-#' @export
 #'
 #' @examples
 #' read_txt("text.txt")
